@@ -5,11 +5,10 @@
 ### I'm a student 👨‍💻 from Delhi, India who loves to create for the **web 🌐 and mobile** 📱.
 
 - 🔭 I’m currently working on building websites and native applications.
-- 🌱 I’m currently learning Flutter and some intermediate React concepts. 
+- 🌱 I’m currently learning Node js and some intermediate React concepts. 
 - 🌱 I’m currently learning React Native and some intermediate Electron concepts. 
 - 👯 I’m looking to collaborate on open source projects based on the MERN stack.
 - 💬 Ask me about Linux, productivity, websites and application development.
-- 📫 How to reach me: [Email 📧](mailto:nitinranganath@gmail.com) or [Telegram 💬](t.me/itsnitinr)
 - 📫 How to reach me: [Email 📧](mailto:shouryamundra@gmail.com) 
 
 ### What I Know 😎:
