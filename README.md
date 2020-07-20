@@ -1,15 +1,7 @@
-## Hi there 👋
-
-I am Shourya Mundra from Delhi, India who is a Full MERN stack developer , Open Source and V Contributor, DevOps enthusiastic, loves Animation, always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
-
-- 😄 Pronouns: He/him
-
-### Programming Languages 🌐
-
 ## Hey there, I'm Shourya 👋
 
 
-### I'm a computer engineering student 👨‍💻 from Mumbai, India who loves to create for the **web 🌐 and mobile** 📱.
+### I'm a computer engineering student 👨‍💻 from Delhi, India who loves to create for the **web 🌐 and mobile** 📱.
 ### I'm a student 👨‍💻 from Delhi, India who loves to create for the **web 🌐 and mobile** 📱.
 
 - 🔭 I’m currently working on building websites and native applications.
