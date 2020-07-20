@@ -1,7 +1,5 @@
-## Hey there, I'm Shourya 👋
+# Hey there, I'm Shourya 👋
 
-
-### I'm a computer engineering student 👨‍💻 from Delhi, India who loves to create for the **web 🌐 and mobile** 📱.
 ### I'm a student 👨‍💻 from Delhi, India who loves to create for the **web 🌐 and mobile** 📱.
 
 - 🔭 I’m currently working on building websites and native applications.
