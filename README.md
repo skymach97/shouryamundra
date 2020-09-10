@@ -17,6 +17,7 @@
 ### What I Want To Learn 🤓:
  Master MERN stack and learn React Native, Electron, Figma, UI/UX, GraphQL and way too many stuff.
 
+<img src="https://lh3.googleusercontent.com/proxy/sp_F1ibn_IXc21vBrXBK5I5o7EH0lfQVTmUpdT-imrGpNWXbsnvKRW0jG6Zh-UJ8XKWw5rrz2guUgbsfhUo1gQLUy5DLNAhFIgsl5WQxO9Gg68mRpHK0">
 <img src="https://github-readme-stats.vercel.app/api/?username=shouryamundra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 ---
