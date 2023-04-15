@@ -11,7 +11,7 @@
 
 ### What I Know 😎:
 - **Frontend Skills 🖌️** - HTML5, CSS3, SASS, Bootstrap, Materialize, Bulma, JavaScript and ReactJS.
-- **Backend Skills 🗄️** - NodeJS, Django, ExpressJS, MongoDB, SQL, REST API.
+- **Backend Skills 🗄️** - NodeJS, ExpressJS, MongoDB, SQL, REST API.
 - **Related stuff** - Git, Redux, Reselect, JWT, Passport, Heroku.
 
 ### What I Want To Learn 🤓:
