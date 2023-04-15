@@ -1,6 +1,6 @@
 # Hey there, I'm Shourya 👋
 
-### I'm a student 👨‍💻 from Delhi, India who loves to create for the **web 🌐 and mobile** 📱.
+### I'm a student 👨‍💻 from Delhi, India, now living in Switzerland🏔️, who loves to create for the **web 🌐 and mobile** 📱.
 
 - 🔭 I’m currently working on building websites and native applications.
 - 🌱 I’m currently learning Node js and some intermediate React concepts. 
